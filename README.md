@@ -1,6 +1,8 @@
-## GenAI Retail Analytics Chatbot
+# GenAI Retail Analytics Chatbot
 
 An intelligent, interactive conversational assistant designed to provide real-time insights into retail sales performance. This project leverages Generative AI (LLMs) to transform natural language user queries into actionable data visualizations and descriptive analytics.
+
+----
 
 ## Key Features
 - **Natural Language Understanding:** Uses GPT-4/Gemini Pro to interpret complex sales-related questions.
@@ -9,6 +11,8 @@ An intelligent, interactive conversational assistant designed to provide real-ti
 - **Automated Reporting:** "Download Report" functionality to export conversation logs and analytical findings.
 - **Data Insights:** Tracks top-performing products, sales trends, and promotional impacts.
 
+----
+
 ## Tech Stack
 - **Language:** Python 3.x
 - **Backend:** Flask / SQLite
@@ -16,6 +20,8 @@ An intelligent, interactive conversational assistant designed to provide real-ti
 - **AI/LLM:** OpenAI GPT-4 or Google Gemini Pro API
 - **Data Science:** Pandas, Matplotlib, Seaborn
 - **Documentation:** ReportLab (for PDF generation)
+
+----
 
 ## Workflow Architecture
 1. **Data ETL:** Raw transactional data is cleaned and mapped to retail categories (Groceries, Electronics, etc.).
